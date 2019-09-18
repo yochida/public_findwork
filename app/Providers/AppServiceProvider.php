@@ -18,7 +18,6 @@ class AppServiceProvider extends ServiceProvider
             return __DIR__.'/../../public';
         });
     }
-
     /**
      * Bootstrap any application services.
      *
